@@ -1,1 +1,1 @@
-{{.Date}}
+## This is the contact page
